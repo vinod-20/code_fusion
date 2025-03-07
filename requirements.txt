@@ -1,0 +1,7 @@
+Flask==3.0.2
+google-generativeai>=0.3.2
+deep-translator==1.11.4
+SpeechRecognition==3.10.0
+gTTS==2.4.0
+langdetect==1.0.9
+twilio==9.0.0
